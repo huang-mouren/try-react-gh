@@ -13,4 +13,11 @@
     })
 ```
     工程化vite 配置 将index.html 与assets 联系 配置成 ./
-    github  中  / 根目录 有好多文件
+    github  中  / 根目录 有好多文件项目
+
+
+- 数据上传到github
+
+
+npm i gh-pages 
+    专门负责dist目录的在线访问
